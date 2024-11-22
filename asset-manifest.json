@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alibaba/static/css/main.1ed2e70f.css",
+    "main.js": "/alibaba/static/js/main.8b45f2a0.js",
+    "static/js/453.05a405e4.chunk.js": "/alibaba/static/js/453.05a405e4.chunk.js",
+    "static/media/about.png": "/alibaba/static/media/about.581ea8a7f128e3c298e6.png",
+    "static/media/profile.png": "/alibaba/static/media/profile.581ea8a7f128e3c298e6.png",
+    "static/media/testimonial1.png": "/alibaba/static/media/testimonial1.28f316fc2087a65279d6.png",
+    "static/media/John-Cv.pdf": "/alibaba/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/alibaba/index.html",
+    "main.1ed2e70f.css.map": "/alibaba/static/css/main.1ed2e70f.css.map",
+    "main.8b45f2a0.js.map": "/alibaba/static/js/main.8b45f2a0.js.map",
+    "453.05a405e4.chunk.js.map": "/alibaba/static/js/453.05a405e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed2e70f.css",
+    "static/js/main.8b45f2a0.js"
+  ]
+}
